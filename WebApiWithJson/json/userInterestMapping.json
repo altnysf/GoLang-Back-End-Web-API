@@ -1,0 +1,46 @@
+[
+  {
+    "UserID": 1,
+    "InterestID": 1
+  },
+  {
+    "UserID": 1,
+    "InterestID": 3
+  },
+  {
+    "UserID": 1,
+    "InterestID": 9
+  },
+  {
+    "UserID": 2,
+    "InterestID": 5
+  },
+  {
+    "UserID": 2,
+    "InterestID": 6
+  },
+  {
+    "UserID": 3,
+    "InterestID": 2
+  },
+  {
+    "UserID": 4,
+    "InterestID": 12
+  },
+  {
+    "UserID": 4,
+    "InterestID": 13
+  },
+  {
+    "UserID": 5,
+    "InterestID": 1
+  },
+  {
+    "UserID": 5,
+    "InterestID": 7
+  },
+  {
+    "UserID": 5,
+    "InterestID": 8
+  }
+]

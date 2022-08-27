@@ -1,0 +1,42 @@
+[
+  {
+    "ID": 1,
+    "Username": "johnconnor",
+    "Firstname": "John",
+    "Lastname": "Connor",
+    "Interest": "C#, Java, SQL Server",
+    "Profile": "https://www.linkedin.com"
+  },
+  {
+    "ID": 2,
+    "Username": "thomaswilliam",
+    "Firstname": "Thomas",
+    "Lastname": "William",
+    "Interest": "Machine Learning, Big Data",
+    "Profile": "https://www.linkedin.com"
+  },
+  {
+    "ID": 3,
+    "Username": "samanthaobrien",
+    "Firstname": "Samantha",
+    "Lastname": "O'Brien",
+    "Interest": "Go",
+    "Profile": "https://www.linkedin.com"
+  },
+  {
+    "ID": 4,
+    "Username": "charlesmiller",
+    "Firstname": "Charles",
+    "Lastname": "Miller",
+    "Interest": "Web Design, SEO",
+    "Profile": "https://www.linkedin.com"
+  },
+  {
+    "ID": 5,
+    "Username": "patriciatremblay",
+    "Firstname": "Patricia",
+    "Lastname": "Tremblay",
+    "Interest": "C,C++,C#",
+    "Profile": "https://www.linkedin.com"
+  }
+]
